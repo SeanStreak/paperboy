@@ -1,0 +1,3 @@
+[submodule "paperboy-frontend"]
+	path = paperboy-frontend
+	url = https://github.com/SeanStreak/paperboy-frontend
